@@ -1,4 +1,6 @@
-<h1 align="left">Hi 👋, I'm Ujjwal Verma <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100" align = 'right'></h1>
+<h1 align="left">Hi 👋, I'm Ujjwal Verma</h1>
+<div><img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="200" align='right'></div>
+
 <h3 align="justify">I'm a creative UI/UX designer and full-stack web developer who loves bringing ideas to life. I thrive on combining my design sensibilities with my coding skills to build beautiful and functional web applications. My toolkit includes expertise in UI/UX design, front-end and back-end development, and I'm also exploring the exciting world of machine learning and deep learning, particularly within the MERN stack. I'm always eager to learn and collaborate on innovative projects. Let's connect and build something amazing!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjwal3115&label=Profile%20views&color=ff0f63&style=flat" alt="ujjwal3115" /> </p>
