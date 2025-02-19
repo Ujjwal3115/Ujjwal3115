@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ujjwal Verma</h1>
-<h3 align="center">I'm a creative UI/UX designer and full-stack web developer who loves bringing ideas to life. I thrive on combining my design sensibilities with my coding skills to build beautiful and functional web applications. My toolkit includes expertise in UI/UX design, front-end and back-end development, and I'm also exploring the exciting world of machine learning and deep learning, particularly within the MERN stack. I'm always eager to learn and collaborate on innovative projects. Let's connect and build something amazing!</h3>
+<h1 align="left">Hi 👋, I'm Ujjwal Verma</h1>
+<h3 align="justify">I'm a creative UI/UX designer and full-stack web developer who loves bringing ideas to life. I thrive on combining my design sensibilities with my coding skills to build beautiful and functional web applications. My toolkit includes expertise in UI/UX design, front-end and back-end development, and I'm also exploring the exciting world of machine learning and deep learning, particularly within the MERN stack. I'm always eager to learn and collaborate on innovative projects. Let's connect and build something amazing!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjwal3115&label=Profile%20views&color=ff0f63&style=flat" alt="ujjwal3115" /> </p>
 
