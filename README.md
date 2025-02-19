@@ -12,9 +12,8 @@ I thrive on combining my design sensibilities with my coding skills to build bea
 <br>
 
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjwal3115&label=Profile%20views&color=ff0f63&style=flat" alt="ujjwal3115" /> </p>
-
+<h3>My Profile Views</h3>
+![Visitor Count](https://profile-counter.glitch.me/{Ujjwal3115}/count.svg)
 - 🔭 I’m currently working on **Thoughts - A AI Driven Diary**
 
 - 🌱 I’m currently learning **MERN Stack**
