@@ -12,8 +12,8 @@ I thrive on combining my design sensibilities with my coding skills to build bea
 <br>
 
 
-<h3>My Profile Views</h3>
 ![Visitor Count](https://profile-counter.glitch.me/{Ujjwal3115}/count.svg)
+<h3>My Profile Views</h3>
 - 🔭 I’m currently working on **Thoughts - A AI Driven Diary**
 
 - 🌱 I’m currently learning **MERN Stack**
