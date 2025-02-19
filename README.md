@@ -1,5 +1,4 @@
-<h1 align="left">Hi 👋, I'm Ujjwal Verma </h1>
-<div align = "right"><img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"></div>
+<h1 align="left">Hi 👋, I'm Ujjwal Verma <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100" align = 'right'></h1>
 <h3 align="justify">I'm a creative UI/UX designer and full-stack web developer who loves bringing ideas to life. I thrive on combining my design sensibilities with my coding skills to build beautiful and functional web applications. My toolkit includes expertise in UI/UX design, front-end and back-end development, and I'm also exploring the exciting world of machine learning and deep learning, particularly within the MERN stack. I'm always eager to learn and collaborate on innovative projects. Let's connect and build something amazing!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjwal3115&label=Profile%20views&color=ff0f63&style=flat" alt="ujjwal3115" /> </p>
@@ -16,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ujjwal3115" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ujjwal3115" height="30" width="40" /></a>
+<a href="https://twitter.com/ujjwal3115" target="blank"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/cc4fe88c-7f7a-41d8-b449-34b7a178c1c6" height = "30" width="30"></a>
 <a href="https://linkedin.com/in/ujjwalverma3115/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ujjwalverma3115/" height="30" width="40" /></a>
 <a href="https://instagram.com/ujjwalv3115" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ujjwalv3115" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ujjwal3115" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ujjwal3115" height="30" width="40" /></a>
