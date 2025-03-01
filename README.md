@@ -24,6 +24,10 @@ I thrive on combining my design sensibilities with my coding skills to build bea
 
 - ⚡ Fun fact **I always Fuck Up things At the beginning , But At the end I make A masterpiece.🙃**
 
+- ![MuaKissGIF](https://github.com/user-attachments/assets/b4851799-3186-419a-939a-6659a588893b) 
+
+<h3 alaign = "left" href="https://drive.google.com/file/d/1qtcw74Ll8s0cqCokoE2OXBoKAgdrYKqS/view?usp=drive_link">My Resume </h3>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ujjwal3115" target="blank"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/cc4fe88c-7f7a-41d8-b449-34b7a178c1c6" height = "30" width="30"></a>
