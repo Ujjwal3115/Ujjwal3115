@@ -43,4 +43,4 @@ I thrive on combining my design sensibilities with my coding skills to build bea
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ujjwal3115&show_icons=true&theme=dark&title_color=ff6666&text_color=6670ff&locale=en" alt="ujjwal3115" /></p>
 
-- ![MuaKissGIF](https://github.com/user-attachments/assets/b4851799-3186-419a-939a-6659a588893b)
+![MuaKissGIF](https://github.com/user-attachments/assets/b4851799-3186-419a-939a-6659a588893b)
