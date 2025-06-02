@@ -26,7 +26,7 @@ I thrive on combining my design sensibilities with my coding skills to build bea
 
 - ⚡ Fun fact **I always Fuck Up things At the beginning , But At the end I make A masterpiece.🙃**
 
-- 😀 My Resume **[click here](https://drive.google.com/file/d/1z40PDnUjBUbrR2Ya4qeZUdhJPkv9oY6w/view?usp=sharing)**
+- 😀 My Resume **[click here](https://drive.google.com/file/d/15IAmky31Ygac2ABL2H4vY9j0WyZS92HV/view?usp=drive_link)**
 
 
  
