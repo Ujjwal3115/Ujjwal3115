@@ -2,7 +2,7 @@
 <h3> My Portfolio <a href="https://ujjwalportfolio-one.vercel.app/"> Click Here  </a>
  </h3>
 <div >
-  <h3 align="left">I'm a creative UI/UX designer and full-stack web developer who loves bringing ideas to life. <br><br>
+  <h3 align="left">I'm a creative UI/UX designer and full-stack web developer and a ML developer who loves bringing ideas to life. <br><br>
 I thrive on combining my design sensibilities with my coding skills to build beautiful and functional web applications.<br><br>
   My toolkit includes expertise in UI/UX design, front-end and back-end development, and I'm also exploring the exciting world of machine learning and deep learning, particularly within the MERN stack.<br><br>
   I'm always eager to learn and collaborate on innovative projects. <br><br>
@@ -16,7 +16,7 @@ I thrive on combining my design sensibilities with my coding skills to build bea
 
 ![Visitor Count](https://profile-counter.glitch.me/{Ujjwal3115}/count.svg)
 <h3>My Profile Views</h3>
-- 🔭 I’m currently working on **Thoughts - A AI Driven Diary**
+- 🔭 I’m currently working as a **ML Intern**
 
 - 🌱 I’m currently learning **MERN Stack**
 
