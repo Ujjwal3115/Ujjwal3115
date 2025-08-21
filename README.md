@@ -14,7 +14,6 @@ I thrive on combining my design sensibilities with my coding skills to build bea
 <br>
 
 
-![Visitor Count](https://profile-counter.glitch.me/{Ujjwal3115}/count.svg)
 <h3>My Profile Views</h3>
 - 🔭 I’m currently working as a **ML Intern**
 
