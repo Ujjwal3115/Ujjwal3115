@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Ujjwal Verma</h1>
-<h3> My Portfolio <a href="https://ujjwalportfolio-one.vercel.app/"> Click Here  </a>
+<h3> My Portfolio <a href="https://ujjwal-main-portfolio.vercel.app/"> Click Here  </a>
  </h3>
 <div >
   <h3 align="left">I'm a creative UI/UX designer and full-stack web developer and a ML developer who loves bringing ideas to life. <br><br>
@@ -25,7 +25,7 @@ I thrive on combining my design sensibilities with my coding skills to build bea
 
 - ⚡ Fun fact **I always Fuck Up things At the beginning , But At the end I make A masterpiece.🙃**
 
-- 😀 My Resume **[click here](https://drive.google.com/file/d/11NPgoF7YyY-1bIhSOTo0JEdTKUEMqwLS/view?usp=sharing)**
+- 😀 My Resume **[click here](https://drive.google.com/file/d/1plE0LhkkiZTvawcmGaxKa-DsqQkQWUKH/view?usp=sharing)**
 
 
  
