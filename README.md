@@ -105,6 +105,5 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ujjwal3115&show_icons=true&theme=radium" alt="Ujjwal's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ujjwal3115&theme=radium" alt="Ujjwal's GitHub Streak" />
 </div>
