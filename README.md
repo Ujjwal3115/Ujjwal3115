@@ -1,47 +1,110 @@
-<h1 align="left">Hi 👋, I'm Ujjwal Verma</h1>
-<h3> My Portfolio <a href="https://ujjwal-main-portfolio.vercel.app/"> Click Here  </a>
- </h3>
-<div >
-  <h3 align="left">I'm a creative UI/UX designer and full-stack web developer and a ML developer who loves bringing ideas to life. <br><br>
-I thrive on combining my design sensibilities with my coding skills to build beautiful and functional web applications.<br><br>
-  My toolkit includes expertise in UI/UX design, front-end and back-end development, and I'm also exploring the exciting world of machine learning and deep learning, particularly within the MERN stack.<br><br>
-  I'm always eager to learn and collaborate on innovative projects. <br><br>
-  Let's connect and build something amazing!</h3>
-  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300" align = 'right'>
-</div>
-<br>
-<br>
-<br>
+<h1 align="center">Hi 👋, I'm Ujjwal Verma</h1>
+<h3 align="center">A passionate Full-Stack & Machine Learning Developer from India</h3>
 
-
-<h3>My Profile Views</h3>
-- 🔭 I’m currently working as a **ML Intern**
-
-- 🌱 I’m currently learning **MERN Stack**
-
-- 👯 I’m looking to collaborate on **New Projects related to Web Development and UI/UX Designing**
-
-- 📫 How to reach me **ujjwalverma3115@gmail.com**
-
-- ⚡ Fun fact **I always Fuck Up things At the beginning , But At the end I make A masterpiece.🙃**
-
-- 😀 My Resume **[click here](https://drive.google.com/file/d/15FrQFZLRRn8TLCxVQbECYibCwEECehNi/view?usp=sharing)**
-
-
- 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ujjwal3115" target="blank"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/cc4fe88c-7f7a-41d8-b449-34b7a178c1c6" height = "30" width="30"></a>
-<a href="https://linkedin.com/in/ujjwalverma3115/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="ujjwalverma3115/" height="40" width="40" /></a>
-<a href="https://instagram.com/ujjwalv3115" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="ujjwalv3115" height="40" width="40" /></a>
-<a href="https://www.leetcode.com/ujjwal3115" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ujjwal3115" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://ujjwal-main-portfolio.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/ujjwalverma3115/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ujjwalverma3115@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ujjwal3115&show_icons=true&theme=dark&title_color=ff6666&text_color=6670ff&locale=en&layout=compact" alt="ujjwal3115" /></p>
+## 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ujjwal3115&show_icons=true&theme=dark&title_color=ff6666&text_color=6670ff&locale=en" alt="ujjwal3115" /></p>
+- 🎓 Pursuing a **B.Tech in Computer Science (AIML)** at *Dronacharya College of Engineering* (2023-2027).
+- 🚀 Building **Thoughts - The AI Diary** and **Paradize.space**.
+- 🧠 Currently exploring and learning: **Cloud Computing, MLOps, Big Data Analytics, and Network Security**.
+- 🏆 **Smart India Hackathon 2024 Finalist** and winner of the **Smart.AI Hackathon**.
+- 🎮 When I'm not coding, I'm usually hauling cargo in Euro Truck Simulator 2 or discovering new tracks on Spotify.
 
-![MuaKissGIF](https://github.com/user-attachments/assets/b4851799-3186-419a-939a-6659a588893b)
+---
+
+## 🛠️ Tech Stack & Tools
+
+### 🤖 Machine Learning & AI
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+</p>
+
+- **Core Domains:** Deep Learning, Natural Language Processing (NLP), Privacy-Preserving Machine Learning (PPML), and MLOps.
+- **Models & Architectures:** RNN-LSTM, YOLO, and Large Language Models (LLMs).
+- **Applied AI Expertise:** Prompt Engineering, Predictive Maintenance, Demand Forecasting, and Supply Chain Optimization.
+
+### 💻 Languages
+<p>
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+  <img src="https://img.shields.io/badge/sql-%23003B57.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+</p>
+
+### 🌐 Web Development
+<p>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+</p>
+
+### ⚙️ Tools & Design
+<p>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+- 🛡️ **Multilingual AI System for Online Radicalization Detection:** Built a two-step classification pipeline achieving 99% accuracy across English, Urdu, and Hinglish using an RNN-LSTM model.
+- 📦 **Intelligent Demand Forecasting Assistant:** Architected an end-to-end ML app using Python and Streamlit, optimizing inventory to reduce holding costs by 15%.
+- 🌐 **For Automate Corporate Website:** Engineered a high-performance React.js website optimized for a 90+ Lighthouse score with Tailwind CSS.
+- 💧 **Water Footprint Calculator App:** Designed the complete UI/UX for a personalized mobile app built during SIH-2024.
+
+---
+
+## 💼 Experience & Internships
+
+* **React Developer** | *For Automate* (Aug 2025 - Present)
+  * Authored core front-end components, achieving a 15% reduction in API response time.
+* **ML Developer Intern** | *JCB India Headquarters* (June 2025 - July 2025)
+  * Utilized ML models for Supply Chain optimization, achieving 94% accuracy in demand forecasting.
+  * Deployed a predictive maintenance model that reduced equipment downtime by 18%.
+
+---
+
+## 🤝 Community & Leadership
+
+- 🎨 **Design Lead:** Google Developer Group (GDG) at Dronacharya College of Engineering.
+- 🎤 **Hackathon Organizer:** Co-organized the "Code & Chaos" hackathon at my college in February 2026.
+
+---
+
+## 📜 Certifications
+
+- ☕ **Java Programming (Silver Elite Batch)** - NPTEL
+- 💻 **Tech Saksham Training Program** - Edunet Foundation (in collaboration with SAP & Microsoft)
+- 🐍 **Introduction to Python** - Infosys Springboard
+- 🔢 **C Programming Certification** - Spoken Tutorial Project, IIT Bombay
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ujjwal3115&show_icons=true&theme=radium" alt="Ujjwal's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ujjwal3115&theme=radium" alt="Ujjwal's GitHub Streak" />
+</div>
