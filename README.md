@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Ujjwal Verma</h1>
-<h3 align="center">Agentic AI Engineer & Technical Partner</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=255E63,003B57&height=250&section=header&text=Ujjwal%20Verma&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=Agentic%20AI%20Engineer%20|%20Tech%20Partner&descAlignY=75" alt="Header Banner" />
+</p>
 
 <p align="center">
   <a href="https://ujjwal-main-portfolio.vercel.app" target="_blank">
@@ -13,9 +14,12 @@
   </a>
 </p>
 
----
+<br>
 
-## 👨‍💻 About Me
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=F7EFE9&text=About%20Me&fontAlignY=50&fontSize=40&height=100&stroke=000000&strokeWidth=2" alt="About Me Section" />
+</p>
+
 
 I specialize in designing autonomous multi-agent architectures, enterprise-grade RAG pipelines, and generative media workflows. 
 
@@ -25,18 +29,11 @@ I specialize in designing autonomous multi-agent architectures, enterprise-grade
 - 🏆 **Achievements:** GATE Data Science & AI (DA) Qualified (AIR 7528) | Smart.AI Hackathon Winner | SIH 2024 Finalist.
 - 🧠 **Currently scaling:** Multi-agent LLM orchestration (CrewAI, LangGraph), deep prompt sequencing (Higgsfield AI), and custom ComfyUI workflows.
 
----
+<br>
 
-
-## Uhmm If you wanna see a snake eating up my commits 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ujjwal3115/Ujjwal3115/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ujjwal3115/Ujjwal3115/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ujjwal3115/Ujjwal3115/output/github-contribution-grid-snake.svg">
-</picture>
-
-
-## 🛠️ Tech Stack & Tools
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=F7EFE9&text=🛠️%20Tech%20Stack%20and%20Tools&fontAlignY=50&fontSize=40&height=100&stroke=000000&strokeWidth=2" alt="Tech Stack Section" />
+</p>
 
 ### 🤖 Gen AI, ML & Data
 <p>
@@ -62,9 +59,11 @@ I specialize in designing autonomous multi-agent architectures, enterprise-grade
   <li><b>Infrastructure:</b> RESTful APIs, Microservices, MLOps, Hugging Face Spaces, PostgreSQL.</li>
 </ul>
 
----
+<br>
 
-## 💼 Experience
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=F7EFE9&text=💼%20Experience&fontAlignY=50&fontSize=40&height=100&stroke=000000&strokeWidth=2" alt="Experience Section" />
+</p>
 
 * **Technical Partner & CTO** | *Veldon Lab* (Remote, US)
   * Architecting multi-agent logic frameworks for automated UI/UX generation, boosting code accuracy by 40%.
@@ -76,26 +75,50 @@ I specialize in designing autonomous multi-agent architectures, enterprise-grade
 * **ML Developer Intern** | *JCB India Headquarters* (Faridabad, India)
   * Deployed machine learning models via REST APIs for Supply Chain optimization, achieving 94% accuracy in demand forecasting.
 
----
+<br>
 
-## 🚀 Featured Projects
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=F7EFE9&text=🚀%20Featured%20Projects&fontAlignY=50&fontSize=40&height=100&stroke=000000&strokeWidth=2" alt="Projects Section" />
+</p>
 
 - 🧠 **NeuroDecode - AI Agentic Platform:** Built an AI system translating complex CV/NLP architecture diagrams into executable PyTorch code. Integrated a multi-agent workflow powered by Gemini 2.5 Flash and RAG to process diagrams in under 15 seconds.
 - 🛡️ **Multilingual AI System for Online Radicalization Detection:** Constructed a two-step classification pipeline achieving 99% accuracy across English, Urdu, and Hinglish streams using Trie data structures and an RNN-LSTM model.
 
----
+<br>
 
-## 📜 High-Impact Certifications
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=F7EFE9&text=📜%20High-Impact%20Certifications&fontAlignY=50&fontSize=40&height=100&stroke=000000&strokeWidth=2" alt="Certifications Section" />
+</p>
 
 - ☁️ **Microsoft Certified:** Azure Data Fundamentals (DP-900)
 - 🤖 **Databricks:** Generative AI Agent Fundamentals
 - 🥇 **NPTEL (IIT Ropar):** Deep Learning (Gold Elite - Top 5%)
 - 🥇 **NPTEL (IIT Guwahati):** Neural Networks for CV & NLP (Gold Elite)
 
----
+<br>
 
-## 📈 GitHub Stats
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=F7EFE9&text=📈%20GitHub%20Stats%20and%20Activity&fontAlignY=50&fontSize=40&height=100&stroke=000000&strokeWidth=2" alt="Stats Section" />
+</p>
+
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ujjwal3115&theme=radium&hide_border=true" alt="Ujjwal's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ujjwal3115&theme=dark&hide_border=true" alt="Ujjwal's GitHub Streak" />
 </div>
+
+<br>
+
+### 🐍 Uhmm, If you wanna see a snake eating up my commits...
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ujjwal3115/Ujjwal3115/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ujjwal3115/Ujjwal3115/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ujjwal3115/Ujjwal3115/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=003B57,255E63&height=150&section=footer" alt="Footer Banner" />
+</p>
