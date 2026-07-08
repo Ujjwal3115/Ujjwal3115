@@ -101,9 +101,8 @@ I specialize in designing autonomous multi-agent architectures, enterprise-grade
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=F7EFE9&text=📈%20GitHub%20Stats%20and%20Activity&fontAlignY=50&fontSize=40&height=100&stroke=000000&strokeWidth=2" alt="Stats Section" />
 </p>
 
-
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=Ujjwal3115&theme=tokyonight&hide_border=true&v=1" alt="Ujjwal's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Ujjwal3115&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&v=80085" alt="Ujjwal's GitHub Streak" />
 </div>
 
 <br>
