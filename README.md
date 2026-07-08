@@ -103,7 +103,7 @@ I specialize in designing autonomous multi-agent architectures, enterprise-grade
 
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ujjwal3115&theme=dark&hide_border=true" alt="Ujjwal's GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=Ujjwal3115&theme=tokyonight&hide_border=true&v=1" alt="Ujjwal's GitHub Streak" />
 </div>
 
 <br>
