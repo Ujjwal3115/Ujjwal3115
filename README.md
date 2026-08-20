@@ -24,7 +24,6 @@
 I specialize in designing autonomous multi-agent architectures, enterprise-grade RAG pipelines, and generative media workflows. 
 
 - 💼 **By Day:** Building internal AI automation pipelines as an Agentic AI Developer Intern at **JK Papers**.
-- 🚀 **By Night:** Co-leading technical strategy and building GenAI video pipelines as a Tech Partner / CTO at **Veldon Lab**.
 - 🎓 Pursuing a **B.Tech in Computer Science (AIML)** at *Dronacharya College of Engineering* (2023-2027).
 - 🏆 **Achievements:** GATE Data Science & AI (DA) Qualified (AIR 7528) | Smart.AI Hackathon Winner | SIH 2024 Finalist.
 - 🧠 **Currently scaling:** Multi-agent LLM orchestration (CrewAI, LangGraph), deep prompt sequencing (Higgsfield AI), and custom ComfyUI workflows.
@@ -65,7 +64,6 @@ I specialize in designing autonomous multi-agent architectures, enterprise-grade
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=F7EFE9&text=💼%20Experience&fontAlignY=50&fontSize=40&height=100&stroke=000000&strokeWidth=2" alt="Experience Section" />
 </p>
 
-* **Technical Partner & CTO** | *Veldon Lab* (Remote, US)
   * Architecting multi-agent logic frameworks for automated UI/UX generation, boosting code accuracy by 40%.
   * Engineering complex generative video workflows using ComfyUI and optimizing prompts for Higgsfield AI models.
 * **Agentic AI Developer Intern** | *JK Papers* (Faridabad, India)
