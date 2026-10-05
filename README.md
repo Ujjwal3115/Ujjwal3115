@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=255E63,003B57&height=250&section=header&text=Ujjwal%20Verma&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=Agentic%20AI%20Engineer%20|%20Tech%20Partner&descAlignY=75" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=255E63,003B57&height=250&section=header&text=Ujjwal%20Verma&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=AI%20Engineer%20&descAlignY=75" alt="Header Banner" />
 </p>
 
 <p align="center">
