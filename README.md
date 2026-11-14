@@ -9,6 +9,9 @@
   <a href="https://zaarvy.in/packages/remi" target="_blank">
     <img src="https://img.shields.io/badge/Zaarvy%20Remi-F2B705?style=for-the-badge&logo=npm&logoColor=black" alt="Zaarvy Remi" />
   </a>
+  <a href="https://escape.zaarvy.in" target="_blank">
+    <img src="https://img.shields.io/badge/Escape%20Production-2040EA?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Escape Production" />
+  </a>
   <a href="https://www.linkedin.com/in/ujjwalverma3115/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -29,8 +32,8 @@
 I bridge modern generative AI workflows with mission-critical, enterprise-grade infrastructure. Currently architecting private, data-sovereign GenAI platforms at **JK Paper Ltd.** and building autonomous developer tooling under **Zaarvy** as its **Creator & Lead Architect**.
 
 - 🏢 **Enterprise Work:** Deploying on-premise GenAI gateways and predictive time-series ML models at **JK Paper Ltd. (Digital Center of Excellence)**.
-- 🚀 **Building Zaarvy:** Architecting an autonomous developer ecosystem and package registry. Shipped **Remi** (`npx zaarvy-remi`) and currently engineering **Graphvy** (agentic knowledge graph engine).
-- 🎓 **Academics:** Final-Year B.Tech in **Computer Science (AIML)** at *Dronacharya College of Engineering* (CGPA: 8.31).
+- 🚀 **Building Zaarvy:** Architecting an autonomous developer ecosystem and package registry. Shipped **Remi** (`npx zaarvy-remi`) and web arcade survival experience **Friday 4:59 PM: Escape Production** (`escape.zaarvy.in`).
+- 🎓 **Academics:** Final-Year B.Tech in **Computer Science (AIML)** at *Dronacharya College of Engineering* (CGPA: 8.31 / 10).
 - 🏆 **Verified Honors:** Qualified **GATE 2026 Data Science & AI (AIR 7528)** • Smart.AI Hackathon Winner (1st Place) • SIH 2024 Finalist.
 - 👥 **Community:** Design Lead @ Google Developer Groups (GDG) on Campus DCE.
 
@@ -63,7 +66,7 @@ I bridge modern generative AI workflows with mission-critical, enterprise-grade 
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 <ul>
-  <li><b>Infrastructure & Engineering:</b> RESTful APIs, Local-First Storage (SQLite FTS5), Microservices, Azure (DP-900), Hugging Face Spaces, Tailwind CSS.</li>
+  <li><b>Infrastructure & Engineering:</b> RESTful APIs, Local-First Storage (SQLite FTS5), HTML5 Canvas 2D Physics, Web Audio API, Microservices, Azure (DP-900), Tailwind CSS.</li>
 </ul>
 
 <br>
@@ -79,7 +82,7 @@ I bridge modern generative AI workflows with mission-critical, enterprise-grade 
 * **Creator & Lead Architect** | *Zaarvy (Building Autonomous Developer Ecosystem)* (Dec 2025 – Present)
   * Architecting Zaarvy as an autonomous AI developer ecosystem and package registry.
   * Launched flagship autonomous intelligence workstation **Remi** (`npx zaarvy-remi`) with SQLite FTS5 ingestion and Google GenAI SDK multi-agent chains.
-  * Engineering **Graphvy**, an agentic knowledge graph visualization and reasoning engine.
+  * Engineered **Friday 4:59 PM: Escape Production** (`escape.zaarvy.in`), an interactive arcade survival game with 2D physics momentum, pushable obstacles, and terminal typing duels.
 * **React Developer (Contract)** | *Brandfortip* (August 2025 – October 2025)
   * Authored modular UI components using React.js and Tailwind CSS, reducing page load times by 25% and API rendering bottlenecks by 15%.
 * **ML Developer Intern** | *JCB India Headquarters* (June 2025 – July 2025)
@@ -93,7 +96,7 @@ I bridge modern generative AI workflows with mission-critical, enterprise-grade 
 
 - ⚡ **[Remi (Recursive Engineering Memory Interface)](https://zaarvy.in/packages/remi):** Autonomous AI developer workstation & package (`npx zaarvy-remi`). Ingests technical feeds into local SQLite FTS5, executes multi-stage Google GenAI summarization, and features Streamlit inspection viewports.
 - 🧠 **[NeuroDecode](https://github.com/Ujjwal3115/NeuroDecode):** Multi-modal architecture-to-PyTorch code generation platform powered by Gemini 2.5 Flash, CrewAI orchestration, and RAG. Parses structural relationships in <15s, reducing boilerplate generation by 80%.
-- 🌐 **[Antrx Web Platform](https://antrx.vercel.app/):** High-performance dark-aesthetic client platform built with Next.js, Framer Motion, and Tailwind CSS with optimized Lighthouse scores.
+- 🕹️ **[Friday 4:59 PM: Escape Production](https://escape.zaarvy.in/):** Interactive browser arcade survival game & typing duel engine simulating the chaotic final 60 seconds before the weekend. Built with HTML5 Canvas 2D physics rendering, dynamic momentum drift, pushable wheeled chairs, interactive coffee-sloshing mechanics, and procedural retro Web Audio synthesis.
 - 🛡️ **[Multilingual Online Radicalization Detection](https://github.com/Ujjwal3115):** Two-stage NLP classification pipeline achieving 99% accuracy across Hinglish, Urdu, and English code-mixed text using Trie pattern parsing and RNN-LSTM (Smart.AI 1st Place Winner).
 
 <br>
@@ -103,6 +106,7 @@ I bridge modern generative AI workflows with mission-critical, enterprise-grade 
 </p>
 
 - 🎓 **GATE 2026 (Data Science & AI):** Qualified — All India Rank (AIR) 7528
+- ☁️ **NPTEL (IIT Kharagpur):** Cloud Computing — Elite (Score: 88%, Top Performer among 46,098 Candidates)
 - ☁️ **Microsoft Certified:** Azure Data Fundamentals (DP-900)
 - 🤖 **Databricks:** Generative AI Fundamentals & AI Agents
 - 🥇 **NPTEL (IIT Ropar):** Deep Learning — Gold Elite (Top 5% Nationwide)
